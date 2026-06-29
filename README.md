@@ -112,14 +112,13 @@ rental_mobil/
 
 ## API Endpoint
 
-### Daftar Mobil
+Daftar seluruh mobil:
+
+http://localhost/rental_mobil/api/mobil.php
+
+Versi online:
+
 https://driveeaser.site.je/api/mobil.php
-
-## Link Website
-
-https://driveeaser.site.je
-
----
 
 ## Link Github
 
