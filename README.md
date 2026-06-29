@@ -135,4 +135,5 @@ https://github.com/dzikrikridantama-tech/driveease-rentalmobil
 ## Tim Pengembang
 
 - Dzikri Kridantama
-- (Nama anggota kelompok lainnya)
+- M. Haikal Amri
+- Fina Oktaviani
