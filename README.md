@@ -112,13 +112,8 @@ rental_mobil/
 
 ## API Endpoint
 
-```text
-/api/mobil.php
-```
-
-Menampilkan data mobil dalam format JSON.
-
----
+### Daftar Mobil
+https://driveeaser.site.je/api/mobil.php
 
 ## Link Website
 
